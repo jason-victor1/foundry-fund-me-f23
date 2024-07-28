@@ -2,7 +2,6 @@
 
 This README provides clear instructions and includes all the necessary details to get started, deploy, and test this `Foundry Fund Me` project. 
 
-- [Foundry Fund Me](#foundry-fund-me)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
